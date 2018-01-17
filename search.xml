@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[first-article]]></title>
       <url>/2018/01/17/first-article/</url>
-      <content type="html"><![CDATA[<h2 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h2><h3 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h3><h3 id="标题三"><a href="#标题三" class="headerlink" title="标题三"></a>标题三</h3><p>公式：$$x_1,x_2=\frac{-b±sqrt{b^2-4ac}}{2a}$$</p>
+      <content type="html"><![CDATA[<h2 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h2><h3 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h3><h3 id="标题三"><a href="#标题三" class="headerlink" title="标题三"></a>标题三</h3><p>公式：$$x_1,x_2=\frac{-b±\sqrt{b^2-4ac}}{2a}$$</p>
 <p>公式inline: $\beta_2=0.0246e-24$</p>
 ]]></content>
       
